@@ -1,21 +1,20 @@
 <!--
-Hello! You can use this template for your own GitHub profile README.
-To get started, simply replace the placeholders like [Your-GitHub-Username] with your actual information.
-You can find more icons at https://simpleicons.org/ or https://devicon.dev/
+GitHub Profile README for mrkhp2002
 -->
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://placehold.co/1200x300/0D1117/30C55A?text=%3E+System+Ready+%7C+Building+the+Future+with+Code+💻" alt="Header Banner" />
+  <img src="https://placehold.co/1200x300/0D1117/30C55A?text=%3E+console.log('System+Ready+%7C+Engineer+Online+👨‍💻');" alt="Header Banner" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=30C55A&center=true&vCenter=true&width=600&lines=%3E+console.log('Engineer+at+Work+👨‍💻');;%3E+Coding+Dreams+into+Reality+🚀;%3E+Crafting+Scalable+Solutions+⚡" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=30C55A&center=true&vCenter=true&width=700&lines=%3E+console.log('Engineer+at+Work+💻');;%3E+console.log('Coding+Dreams+into+Reality+🚀');;%3E+console.log('Crafting+Scalable+Solutions+⚡');" alt="Typing SVG" />
   </a>
 </div>
 
+---
 
 ### 👨‍💻 About Me
 <p align="left">
