@@ -6,17 +6,16 @@ You can find more icons at https://simpleicons.org/ or https://devicon.dev/
 
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://placehold.co/1200x300/0D1117/30C55A?text=Hello,+World!" alt="Header Banner" />
+  <img src="https://placehold.co/1200x300/0D1117/30C55A?text=%3E+System+Ready+%7C+Building+the+Future+with+Code+💻" alt="Header Banner" />
 </div>
 
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=30C55A&center=true&vCenter=true&width=435&lines=I'm+Kanchana+Piyaseara;A+Full-Stack+Developer;A+Lifelong+Learner;An+Open-Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=30C55A&center=true&vCenter=true&width=600&lines=%3E+console.log('Engineer+at+Work+👨‍💻');;%3E+Coding+Dreams+into+Reality+🚀;%3E+Crafting+Scalable+Solutions+⚡" alt="Typing SVG" />
   </a>
 </div>
 
----
 
 ### 👨‍💻 About Me
 <p align="left">
