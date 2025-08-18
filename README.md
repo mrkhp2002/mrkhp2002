@@ -89,7 +89,7 @@ I'm a passionate developer from <strong>Kagalle</strong> with a knack for buildi
 <a href="mailto:kanchanaZ2002gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://www.google.com/url?sa=E&source=gmail&q=https://mrkhp2002.github.io">
+<a href="https://www.google.com/search?q=https://mrkhp2002.github.io">
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-30C55A%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dblack" alt="Portfolio"/>
 </a>
 </p>
