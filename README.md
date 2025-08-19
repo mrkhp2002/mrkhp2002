@@ -12,11 +12,11 @@ GitHub Profile README for mrkhp2002
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=30C55A&center=true&vCenter=true&width=435&lines=I'm+Kanchana+Piyaseara;A+Full-Stack+Developer;A+Lifelong+Learner;An+Open-Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=30C55A&center=true&vCenter=true&width=600&lines=I'm+Kanchana+Piyasekara;A+Full-Stack+Developer;A+Lifelong+Learner;An+Open-Source+Enthusiast" alt="Typing SVG" />
 </a>
 </div>
 
-👨‍💻 About Me
+<b>👨‍💻 About Me</b>
 <p align="left">
 I'm a passionate developer from <strong>Kagalle</strong> with a knack for building robust and scalable web applications. My journey in tech is driven by a constant desire to learn, innovate, and solve complex problems. As an <strong>ENTJ-A</strong>, I thrive on turning ambitious visions into reality through strategic planning and execution.
 </p>
@@ -33,12 +33,10 @@ I'm a passionate developer from <strong>Kagalle</strong> with a knack for buildi
 
 📫 How to reach me: kanchanaZ2002@gmail.com
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
 
 
-🛠️ My Tech Stack
+<b>🛠️ My Tech Stack</b>
 
 <div align="center">
 
@@ -68,7 +66,8 @@ I'm a passionate developer from <strong>Kagalle</strong> with a knack for buildi
   </p>
 
 </div>
-📊 My GitHub Stats
+
+<b>📊 My GitHub Stats</b>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Kanchana's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrkhp2002&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=30C55A&icon_color=30C55A&bg_color=0d1117&text_color=c9d1d9&rank_icon=github" />
@@ -83,21 +82,10 @@ I'm a passionate developer from <strong>Kagalle</strong> with a knack for buildi
   </a>
 </p>
 
-🌐 Connect with Me
+<b><center>🌐 Connect with Me</b>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mrkhplinked-019b70296" target="_blank" rel="noopener noreferrer">
-    <img src="https://badgen.net/badge/icon/linkedin?icon=linkedin&label&color=0077B5" height="40" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/mr_khp" target="_blank" rel="noopener noreferrer">
-    <img src="https://badgen.net/badge/icon/x?icon=x&label&color=000000" height="40" alt="X"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:kanchanaZ2002@gmail.com">
-    <img src="https://badgen.net/badge/icon/gmail?icon=gmail&label&color=D14836" height="40" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://mrkhp2002.github.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://badgen.net/badge/icon/react?icon=react&label&color=30C55A" height="40" alt="Portfolio"/>
-  </a>
+<a href="https://linkedin.com/in/Kanchana Piyasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrkhp" height="30" width="40" /></a>
+<a href="https://fb.com/kanchana piyasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanchana piyasekara" height="30" width="40" /></a>
+<a href="https://instagram.com/mr._khp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrkhp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/kanchana piyasekara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kanchana piyasekara" height="30" width="40" /></a>
 </p>
